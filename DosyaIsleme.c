@@ -1,3 +1,4 @@
+//Can Ahmet Ayrıer Tarafından Oluşturulmuştur.
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h> 
