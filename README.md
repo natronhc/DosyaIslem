@@ -12,6 +12,4 @@ Eğer bir yanlış varsa lütfen bana geri bildirim gönderiniz.
 
 Can Ahmet Ayrıer tarafından oluşturuldu....
 
-
-deneme e
 */
